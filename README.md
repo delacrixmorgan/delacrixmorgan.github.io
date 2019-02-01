@@ -1,10 +1,6 @@
 # Morgan Koh - GitHub Pages
 
-My name is Morgan. I'm an Android developer from Malaysia 🇲🇾
-
-Currently working at Apptivity Lab and making magic happen in Kotlin.
-
-#MakeGoodThings🚀
+![Overview Header](/images/overview.png?raw=true "Overview Header")
 
 ## Credits
 ```
