@@ -7,7 +7,7 @@
 Massively © Design By HTML5 UP
 Licensed under the Creative Commons Attribution 3.0 License.
 ```
-Photo By [Evan Kirby](https://unsplash.com/@evankirby2) on Unsplash
+Photo By [Cameron Venti](https://unsplash.com/@cmventi20) on Unsplash
 
 [Creative Commons CC BY-SA 3.0](https://html5up.net/license)
 
